@@ -1,5 +1,5 @@
 <templateSet group="HTML/XML">
-  <template name="translate" value="{{ '$SELECTION$'|t }}" toReformat="true" toShortenFQNames="true">
+  <template name="translate" value="{{ '$SELECTION$'|t }}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Twig" value="true" />
     </context>
