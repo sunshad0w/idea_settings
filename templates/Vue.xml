@@ -1,5 +1,5 @@
 <templateSet group="Vue">
-  <template name="translate" value="{{ _translates('$SELECTION$') }}" toReformat="false" toShortenFQNames="true">
+  <template name="translate" value="{{ _translates('$SELECTION$') }}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Vue" value="true" />
     </context>
