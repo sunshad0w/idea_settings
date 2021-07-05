@@ -222,6 +222,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="NBMindMap">
+                    <value>
+                      <FeaturePluginData displayName="NB Mind Map" pluginName="IDEA Mind Map" pluginId="nb-mind-map-idea" />
+                    </value>
+                  </entry>
                   <entry key="kotlin-language">
                     <value>
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
