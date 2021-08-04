@@ -3,12 +3,11 @@
     <extensionMap>
       <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="yyy" type="AUTO_DETECTED" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".gitignore1" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore11" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore1" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
