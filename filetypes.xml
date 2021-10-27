@@ -8,6 +8,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignore11" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore1" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="php " type="PLAIN_TEXT" />
